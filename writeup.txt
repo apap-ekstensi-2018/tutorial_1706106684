@@ -1,0 +1,18 @@
+1. Compiler tidak error, tetapi ketika mencoba membuka localhost:8080/hello muncul halaman error.
+There was an unexpected error (type=Not Found, status=404).
+2. Compiler tidak error, localhost:8080/hello page hello tetap muncul.
+3. Compiler tidak error, tetapi ketika mencoba membuka localhost:8080/hello muncul halaman error.
+There was an unexpected error (type=Not Found, status=404).
+
+1. Halaman ini dapat diakses tanpa error.
+2. Halaman ini menampilkan tulisan seperti berikut:
+Selamat datang null!
+3. Halaman ini menampilkan tulisan seperti berikut:
+Selamat datang dunia!
+
+Akses localhost:8080/greeting/
+Pertanyaan: ​Apa hasilnya?
+Selamat datang apap!
+Akses localhost:8080/greeting/chanek
+Pertanyaan: ​Apa hasilnya?
+Selamat datang chanek!
